@@ -5,15 +5,7 @@ primarily from LeetCode and Striver's A2Z DSA Sheet.
 
 ## Topics
 
-- Arrays
-- Strings
-- Linked Lists
 - Stack & Queue
-- Binary Search
-- Recursion
-- Trees
-- Graphs
-- Dynamic Programming
 
 ## Structure
 
